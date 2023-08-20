@@ -1,9 +1,14 @@
 /* Styling the footer */
 
 footer {
-	   background-color= #00FF00;
-           height= 60px;
-           width= 100%;
-	   justify-content = center;
-           bottom = 0;
-   }
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    bottom: 0;
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
