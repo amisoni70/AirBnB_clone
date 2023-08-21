@@ -1,0 +1,15 @@
+/* Styling the footer */
+
+footer {
+    background-color: #FFFFFF;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    margin: auto;
+    bottom: 0;
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-top: 1px #CCCCCC;
+}
